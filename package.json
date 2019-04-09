@@ -1,0 +1,14 @@
+{
+  "name": "dlive-acc-lookup",
+  "version": "1.0.0",
+  "description": "A script which checks for dlive.tv usernames and puts available names into a .txt file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
